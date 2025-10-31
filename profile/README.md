@@ -122,8 +122,8 @@ We help homeowners navigate and maximize benefits from government solar subsidy 
 [![Website](https://img.shields.io/badge/🌐_Visit_Our_Website-arkahub.in-FF6B00?style=for-the-badge)](https://arkahub.in)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/arkahub)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/thearkahub/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://instagram.com/arkahub)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=61581043802390)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/thearkahub/)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@arkahub)
 
 📧 **Get Your Free Solar Assessment Today!**
