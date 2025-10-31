@@ -6,8 +6,8 @@
 
 [![Website](https://img.shields.io/badge/Website-arkahub.in-orange?style=for-the-badge&logo=safari&logoColor=white)](https://arkahub.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arkahub-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/arkahub)
-[![Facebook](https://img.shields.io/badge/Facebook-Arkahub-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thearkahub/)
-[![Instagram](https://img.shields.io/badge/Instagram-@Arkahub-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arkahub)
+[![Facebook](https://img.shields.io/badge/Facebook-Arkahub-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61581043802390)
+[![Instagram](https://img.shields.io/badge/Instagram-@Arkahub-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thearkahub/)
 
 ---
 
